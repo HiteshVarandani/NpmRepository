@@ -1,0 +1,19 @@
+{
+  "name": "my-npm-pkg-demo",
+  "version": "1.0.0",
+  "description": "The first package built to work on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-pkg"
+  },
+  "keywords": [
+    "decide",
+    "predict",
+    "perform",
+    "determine",
+    "perfect",
+    "state"
+  ],
+  "author": "Hitesh Varandani",
+  "license": "ISC"
+}
